@@ -1,5 +1,5 @@
-<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: ROGITH. K K</h3>
+<h1>Exp No 1 :Developing AI Agent with PEAS Description</h1>
+<h3>Name: ROGITH. K </h3>
 <h3>Register Number: 212223110042</h3>
 
 
